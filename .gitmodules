@@ -13,3 +13,11 @@
 [submodule "hr_expense_invoice"]
 	path = hr_expense_invoice
 	url = git@github.com:rocketgithub/hr_expense_invoice.git
+[submodule "pos_fel"]
+	path = pos_fel
+	url = git@github.com:rocketgithub/pos_fel.git
+	branch = 15.0
+[submodule "pos_gt"]
+	path = pos_gt
+	url = git@github.com:rocketgithub/pos_gt.git
+	branch = 15.0
