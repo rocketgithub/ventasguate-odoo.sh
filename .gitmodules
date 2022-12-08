@@ -21,3 +21,7 @@
 	path = pos_fel
 	url = git@github.com:rocketgithub/pos_fel.git
 	branch = 15.0
+[submodule "limite_credito"]
+	path = limite_credito
+	url = git@github.com:rocketgithub/limite_credito.git
+	branch = 13.0
